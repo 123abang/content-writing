@@ -120,7 +120,7 @@ export default function Home() {
                 <p className="max-w-[900px] text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
                   I'm Abang Tah, a passionate writer with a focus on romance, technology, and the intersection of AI
                   with creative writing. My work explores human emotions, scientific concepts, and the relationships
-                  between people and technology in the digital age.
+                  between people and technology in the digital age. I'm a young dedicated writer who think the entire world and it rules were all written down from laws to information passed that is why I think writing is so powerful as it not also give instructions like the koran and the bibles it shapes us
                 </p>
               </div>
             </div>
